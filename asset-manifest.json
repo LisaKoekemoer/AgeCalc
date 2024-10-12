@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AgeCalc/static/css/main.91a8d482.css",
+    "main.js": "/AgeCalc/static/js/main.1f9fefdb.js",
+    "static/js/453.fb97ff36.chunk.js": "/AgeCalc/static/js/453.fb97ff36.chunk.js",
+    "index.html": "/AgeCalc/index.html",
+    "static/media/icon-arrow.svg": "/AgeCalc/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.91a8d482.css.map": "/AgeCalc/static/css/main.91a8d482.css.map",
+    "main.1f9fefdb.js.map": "/AgeCalc/static/js/main.1f9fefdb.js.map",
+    "453.fb97ff36.chunk.js.map": "/AgeCalc/static/js/453.fb97ff36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a8d482.css",
+    "static/js/main.1f9fefdb.js"
+  ]
+}
